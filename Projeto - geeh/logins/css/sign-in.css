@@ -25,7 +25,8 @@ body {
   background-color: #ffffff80;
   padding: 30px;
   border-radius: 4%;
-  box-shadow: 3px 3px 1px 0px #00000060
+  box-shadow: 3px 3px 1px 0px #00000060;
+  background-color: #fff;
 }
 
 h1{
@@ -33,6 +34,19 @@ h1{
   margin-bottom: 20px;
   color: #272262
 }
+
+.area{
+  color: #fff;
+  margin: 70px 0 0 0 ;
+}
+
+h2{
+  color: #fff;
+   display: flex;
+    justify-content: center;
+    margin: 40px 0 0 0 ;
+}
+
 
 .label-float input{
   width: 100%;
